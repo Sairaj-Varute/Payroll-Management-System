@@ -1,0 +1,27 @@
+# Java / Maven
+**/target/
+**/.mvn/
+**/*.class
+
+# Eclipse
+**/.metadata/
+**/.classpath
+**/.project
+**/.settings/
+
+# Environment / secrets
+.env
+.env.*
+application-local.properties
+
+# Node
+**/node_modules/
+**/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
